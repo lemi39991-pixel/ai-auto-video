@@ -7,6 +7,7 @@
 ## 项目文档
 
 - [AI 短视频制作与发布实施方案](docs/implementation-plan.md)：产品目标、使用流程、模块分工、技术设计、费用控制、开发阶段与验收标准。
+- [视频生成项目调研](research/video-generation/README.md)：GitHub 候选项目对比、生成方法与后续样片验证方案。
 
 ## 相关项目
 
