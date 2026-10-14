@@ -8,6 +8,7 @@
 
 - [AI 短视频制作与发布实施方案](docs/implementation-plan.md)：产品目标、使用流程、模块分工、技术设计、费用控制、开发阶段与验收标准。
 - [第一版开发细则](docs/mvp-development-plan.md)：分镜时间轴、配音字幕、业务接口、任务恢复、开发任务与具体验收门槛。
+- [盈利方案与首月验证计划](docs/monetization-plan.md)：盈利路径、收费服务、获客流程、盈亏测算和一个月的商业验证安排。
 - [视频生成项目调研](research/video-generation/README.md)：GitHub 候选项目对比、生成方法与后续样片验证方案。
 
 ## 相关项目
